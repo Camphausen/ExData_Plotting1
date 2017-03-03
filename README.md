@@ -1,3 +1,6 @@
+Please start with plot_prepare_data.R before running plot1.R, plot2.R etc.
+
+
 ## Introduction
 
 This assignment uses data from
